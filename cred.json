@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "precise-sight-408917",
+  "private_key_id": "c1d3c0f1f35728e2f2bcdeeec5624995ef021eab",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC8XGdHCWfI8TWj\nZOs0ll3YsDiKpF3z5O23EEAQVcLQlB6x9banAkhYi7tnztcKJ66aGtr4hdI7tVsQ\nU5qr6hsIcF1N/geKeOE+tkdL4OEnN21nkXqgbn5kT0KBFIePyw7vgT7c4PAG1KoP\nru7PBDb60CT1RTrFVOMplm9JGCLqHWJi6Hxhf9hjJuhDvOEu5aEBoREbKHUrksZL\nuNW3o9L/FIU8LjhdfeqG1o482KVBNN1V9nZF5ngjyAmNFKzff8tkhYHhkFuND0wi\n5WtbcjCaHE9CjtlAiICwTGq8P4BoMkxfeUgefD38CR8PRD0uSuvf5P9l210DqSrk\n+k8fBIAXAgMBAAECggEAN3UfRTd8MpnuGHLsmzmQXO2ZYBx/uwDSin0C16xgZOfP\nV8cH5YkTAtr1LN2ly4weaKnygYxo9wJw0tBCsE4HcoceuYlK8Bah/sRNHoaR0+mK\nUR1wlM6jcOYzJu0D8q6u8Y5Ek2S41tIDVgXDsvjDNTpWP06IPLQ/A64SittL4FCO\n7MN1sQnMkEqNxlIiOtxM/UHoOMCtGhrV8dJ0LF+BuuTf/IKzpBL654HxhEXgxmxJ\n19+wGtiVwKGNNgBr8FXhOf8GfFxLhF3ixSDOhyDWjArfrmmPhdxnUoNrAL+6mZwe\nsCuJvuq0QzTyHY+77xyYbLz/zEj2HPYZo4ndCwbPKQKBgQD8LHPJjP1cRIOQW5Z1\nmTpsKpHbEgRcv/nlZR+ymyvr8wbgjZAetb6mXiv/3fPLMv3ezYsLPA/ZJXTCRs7O\n5cwMtFVV57Vii+ks2mhI9IuadHWkW6e2abz0J6fpsPz9k78jiJhP8xCO14mSek9F\ngSdHcI0WhDbYJLYJlAgGsQ/4PwKBgQC/OBN0x15X30InEJVhiOKh+flLMDinsn33\nDh3HCBFD1xazKIWlgK4J9IcQz/P4Ip6ApnMnPDf0o06rjGHm2r7E6zzebg28MreM\n5CCBoREIdce7xIELdNYv2xiPWA4DoaIMivyRDL9JMo8RUk92zljUoyxb8f9yty9G\nvCIcUSrCKQKBgD1sKmvOXqwJuC4CUPyl7PgJymsc0VkyHZFFd1oOt70J/gPWF2OT\nizOEvpzdGBPHgNSzJgn/gDC5Ed58VsVIbdIuXpbFEIZHY+1b6YjTn+loMnttI8Wn\nrbGesySVypmNUkI6dDcNElxonYbDKenZEpMxE/yHCcDN+FUO7IGMwUILAoGARK1t\nP3oDhmfnKISqQjeZvjc7tCeDkadn2n21cDCTktwDiSE6rvCCkYzDneQyaaJ1bxtZ\nLHRSXIjyzmZDG1jhP3SFjhXU1Q0aI34jtqsUpQc4T1YKSwURkGqObZ1gmylIPF0G\nzUnYwf9opv37EF6YRPa+Dd/isV7dmfgkACuewdECgYAiAIn1RzncbHibweBpoZk3\ns/Rx1DMEPfTF7X6oEgTmT7qVb/q7w1Opd8Kj8M0nqfX56o3SQCYwV7Z/x0EQNiNk\n0W5FREK72+YnFp2hd3a4ZAGSfbhgxOdN5FGCqjIWzpiv1+5R71a4S8KP1DRjj4mJ\n7xYMjrIn8P+hTEM006NS/w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "account@precise-sight-408917.iam.gserviceaccount.com",
+  "client_id": "104830214375500353008",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/account%40precise-sight-408917.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
