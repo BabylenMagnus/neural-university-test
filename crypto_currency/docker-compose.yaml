@@ -1,0 +1,19 @@
+services:
+  db_crypto:
+    container_name: db_crypto
+    ports:
+      - "8110:5432"
+    environment:
+      - POSTGRES_PASSWORD=secret
+      - POSTGRES_USER=user
+      - POSTGRES_DB=postgres
+    image: postgres:15.5
+    restart: always
+  crypto_site:
+    container_name: crypto_site
+    ports:
+      - "8020:8020"
+    restart: always
+    depends_on:
+      - db_crypto
+    build: .
